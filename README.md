@@ -1,2 +1,2 @@
 # cs106b
-programming abstractions in C++
+CS106B Programming Abstractions is the second course in stanford's introductory programming sequence. The prerequisite is MIT's 6.100A establishes a solid foundation in programming methodology and problem-solving in Python. CS106B will acquaint you with the C++ programming language and introduce advanced programming techniques such as recursion, algorithm analysis, data abstraction, explore classic data structures and algorithms, and give you practice applying these tools to solving complex problems.
